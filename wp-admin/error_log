@@ -1,0 +1,4 @@
+[04-Dec-2016 11:33:55 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[04-Dec-2016 11:56:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webkidunia/public_html/demo/wp-content/themes/clean-lite/inc/about-themes.php:9) in /home/webkidunia/public_html/demo/wp-includes/option.php on line 823
+[04-Dec-2016 11:56:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webkidunia/public_html/demo/wp-content/themes/clean-lite/inc/about-themes.php:9) in /home/webkidunia/public_html/demo/wp-includes/option.php on line 824
+[04-Dec-2016 11:57:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/webkidunia/public_html/demo/wp-content/themes/clean-lite/inc/about-themes.php:9) in /home/webkidunia/public_html/demo/wp-includes/pluggable.php on line 1174
